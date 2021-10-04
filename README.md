@@ -1,3 +1,3 @@
 # Iteration-exercises
 
-- Complete the exercises
+- Complete the exercisez
